@@ -59,7 +59,6 @@ mvn clean package -f application/pom.xml
 ```
 
 ```shell script
-cp application/target/application-1.0.jar ~/rpmbuild/SOURCES/ && 
 mkdir -p ~/rpmbuild/BUILDROOT/rpm-application-1.0-1.x86_64 &&
 mkdir -p ~/rpmbuild/BUILDROOT/rpm-application-1.0-1.x86_64/opt/rpm-application &&
 mkdir -p ~/rpmbuild/BUILDROOT/rpm-application-1.0-1.x86_64/usr/bin &&
