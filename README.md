@@ -3,7 +3,7 @@
 ## Инициализация проекта
 
 ```shell script
-mkdir /home/ezhov_da/Repositories/git/rpm-application && cd /home/ezhov_da/Repositories/git/rpm-application
+mkdir -p ~/Repositories/git/rpm-application && cd ~/Repositories/git/rpm-application
 ```
 ```shell script
 git init
